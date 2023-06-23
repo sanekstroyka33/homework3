@@ -1,0 +1,15 @@
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemmt3\bin\Debug\net6.0\attemmt3.exe
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemmt3\bin\Debug\net6.0\attemmt3.deps.json
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemmt3\bin\Debug\net6.0\attemmt3.runtimeconfig.json
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemmt3\bin\Debug\net6.0\attemmt3.dll
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemmt3\bin\Debug\net6.0\attemmt3.pdb
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemmt3\obj\Debug\net6.0\attemmt3.csproj.AssemblyReference.cache
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemmt3\obj\Debug\net6.0\attemmt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemmt3\obj\Debug\net6.0\attemmt3.AssemblyInfoInputs.cache
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemmt3\obj\Debug\net6.0\attemmt3.AssemblyInfo.cs
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemmt3\obj\Debug\net6.0\attemmt3.csproj.CoreCompileInputs.cache
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemmt3\obj\Debug\net6.0\attemmt3.dll
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemmt3\obj\Debug\net6.0\refint\attemmt3.dll
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemmt3\obj\Debug\net6.0\attemmt3.pdb
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemmt3\obj\Debug\net6.0\attemmt3.genruntimeconfig.cache
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attemmt3\obj\Debug\net6.0\ref\attemmt3.dll
